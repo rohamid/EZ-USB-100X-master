@@ -1,0 +1,2 @@
+# EZ USB FX2LP 100X
+EZ USB FX2LP CY7C68013A 100pin Development board

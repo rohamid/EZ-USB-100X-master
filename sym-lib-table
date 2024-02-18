@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "CY7C68013A")(type "KiCad")(uri "${KIPRJMOD}/lib/CY7C68013A.kicad_sym")(options "")(descr ""))
+  (lib (name "USB_Mini_B_Molex")(type "Legacy")(uri "${KIPRJMOD}/lib/USB_Mini_B_Molex/USB_Mini_B_Molex.lib")(options "")(descr ""))
+)
